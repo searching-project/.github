@@ -99,9 +99,6 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 <br><br>
 
 ## 팀원
-<a href="https://github.com/hm5938" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=이혜민 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/Cho-El" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=조성윤 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/deingvelop" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=송민진 &color=08CE5D&style=for-the-badge&>"/></a>
 
 |이름|포지션|분담|@ Email|Github|
 |------|------|------|------|------|
