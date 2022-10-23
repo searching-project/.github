@@ -18,12 +18,12 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 <br><br>
 
 
-## 🏰 아키텍쳐
+## 아키텍쳐
 <img src="">
 
 <br><br>
 
-## 📜 기술스택
+## 기술스택
 |분류|기술|
 | :-: |:- |
 |Language|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
