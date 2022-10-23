@@ -44,7 +44,7 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 |Build Tool|<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">|
 |DB|<img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">|
 |Server|<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">|
-|CI/CD|<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> <img src="https://img.shields.io/badge/codedeploy-98CCFD?style=for-the-badge&logo=codedeploy&logoColor=white">|
+|CI/CD|<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> <img src="https://img.shields.io/badge/codedeploy-00A6E4?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">|
 |Caching|<img src="https://img.shields.io/badge/redis-B71C1C?style=for-the-badge&logo=redis&logoColor=white">|
 |Logging|<img src="https://img.shields.io/badge/kafka-3498DB?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/elasticsearch-E5A505?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/logstash-1ABC9C?style=for-the-badge&logo=logstash&logoColor=white&textColor=white"> <img src="https://img.shields.io/badge/kibana-6DB33F?style=for-the-badge&logo=kibana&logoColor=white">|
 
