@@ -51,7 +51,7 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 
       -  방대한 데이터 양으로, `%LIKE%` 쿼리문으로는 속도 및 기술적인 한계가 존재
 
--  동일한 환경(데이터 8만개, limit 10)에서 테스트시 `Fulltext Search (ngram)`가 `%LIKE%` 대비 검색 속도 230% 향상
+      -  동일한 환경(데이터 8만개, limit 10)에서 테스트시 `Fulltext Search (ngram)`가 `%LIKE%` 대비 검색 속도 230% 향상
 
 ### 🔹 Redis를 활용한 캐싱
 
