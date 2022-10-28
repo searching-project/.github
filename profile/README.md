@@ -256,7 +256,7 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 
 |이름|포지션|분담|@ Email|Github|
 |------|------|------|------|------|
-|이혜민|BackEnd|검색(쿼리 최적화)<br>부하 테스트<br>회원가입/로그인<br/>|hmlee5938@gmail.com|https://github.com/hm5938|
+|이혜민|BackEnd|검색(쿼리 최적화)<br>부하 테스트<br>캐싱<br/>|hmlee5938@gmail.com|https://github.com/hm5938|
 |조성윤|BackEnd|검색(쿼리 최적화)<br>부하 테스트<br>동시성 제어|syzzang21c@gmail.com|https://github.com/Cho-El|
 |송민진|BackEnd|검색(쿼리 최적화)<br>부하 테스트<br>로깅|m_6595@naver.com|https://github.com/deingvelop|
 
