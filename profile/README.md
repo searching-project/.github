@@ -8,7 +8,7 @@
 
 ### 팀 노션
 ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
-👉🏻 **[[Notion] 🔍 ChadDa 바로가기](https://chadda.notion.site/ChadDa-14a7282da6954f529572a538953664d0)**
+팀 워크스페이스 바로가기 👉🏻 **[[Notion] 🔍 ChadDa](https://chadda.notion.site/ChadDa-14a7282da6954f529572a538953664d0)**
 
 <br>
 
@@ -223,11 +223,25 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 # 프로젝트 관리
 <details>
     <summary> <b>CI/CD</b> </summary>
-        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/CI-CD-feat-Github-Actions-Docker-f645688df08047788ecdd9b2dc01b6a2 </h5>
+    <div markdown="1">
+        
+> 자세히 보러 가기 👉🏻 [**[Notion] 🐳 CI/CD**](https://www.notion.so/chadda/CI-CD-feat-Github-Actions-Docker-f645688df08047788ecdd9b2dc01b6a2)
+>
+        
+<br>
+        
+</div>
 </details>
 <details>
     <summary> <b>Conventions</b> </summary>
-        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/Conventions-03cb79380ea6484cb7c4a49d24b62771 </h5>
+    <div markdown="1">
+        
+> 자세히 보러 가기 👉🏻 [**[Notion] ✨ Conventions**](https://www.notion.so/chadda/Conventions-03cb79380ea6484cb7c4a49d24b62771)
+>
+        
+<br>
+        
+</div>
 </details>
 
 <br><br><br>
