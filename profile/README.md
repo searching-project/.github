@@ -120,12 +120,22 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 # 설계
 <details>
     <summary> <b>📕 DB 설계 (ERD)</b> </summary>
+    <h4>ERD</h4>
+    <img src="https://user-images.githubusercontent.com/100582309/198495585-852ef4e6-70cb-44ae-b3db-9ee42214750f.png">
     <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/DB-f384089335da42ee88687ddb49ff60ee </h5>
-
+    <br>
 </details>
 <details>
     <summary> <b>📝 API 설계</b> </summary>
-        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/API-5c17ce874b52451dbc0dbe9dce9b6420 </h5>
+    <img src="https://user-images.githubusercontent.com/100582309/198497364-2869032e-b679-46e1-989f-7c9ffb763fda.png">
+    <div markdown="1">
+        
+> 자세히 보러 가기 👉🏻 [**[Notion] 📝 API 설계**](https://www.notion.so/chadda/API-5c17ce874b52451dbc0dbe9dce9b6420)
+>
+        
+<br>
+        
+</div>
 </details>
 
 <br><br><br>
@@ -134,7 +144,28 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 # 트러블 슈팅
 <details>
     <summary> <b>검색 성능 개선</b> </summary>
-        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/dd456aa3a0d2434e93bda3437e08280c </h5>
+    <div markdown="1">
+
+- **도입 이유 및 문제 상황**
+       
+  : 방대한 데이터 양으로, `%LIKE%` 쿼리문으로는 속도 및 기술적인 한계가 존재함
+        
+- **해결방안 고민**
+  - Fulltext index 
+  - Fulltext index with parser ngram
+        
+- **의견 결정**
+   * 게시글에 들어가는 키워드 검색, 위치에 들어가는 키워드 검색 등 검색 결과의 퀄리티를 위하여 Fulltext Index with parser ngram이 더 좋겠다고 판단
+   * 성능 테스트 결과 큰 차이가 없을 것으로 판단
+        
+    ⇒ ngram + 쿼리문을 활용하여 연관 키워드 중 정확도 순으로 정렬하여 출력하기로 결정
+        
+<br>
+        
+> 자세히 보러 가기 👉🏻 [**[Notion] 🚀 검색 성능 개선**](https://www.notion.so/chadda/dd456aa3a0d2434e93bda3437e08280c)
+> 
+<br>
+</div>
 </details>
 <details>
     <summary> <b>부하 테스트(feat. JMeter, Ngrinder)</b> </summary>
