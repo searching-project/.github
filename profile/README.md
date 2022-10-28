@@ -120,11 +120,12 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 # 설계
 <details>
     <summary> <b>📕 DB 설계 (ERD)</b> </summary>
-        <img src="">
+    <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/DB-f384089335da42ee88687ddb49ff60ee </h5>
+
 </details>
 <details>
     <summary> <b>📝 API 설계</b> </summary>
-        <img src=""> 
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/API-5c17ce874b52451dbc0dbe9dce9b6420 </h5>
 </details>
 
 <br><br><br>
@@ -133,23 +134,23 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 # 트러블 슈팅
 <details>
     <summary> <b>검색 성능 개선</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/dd456aa3a0d2434e93bda3437e08280c </h5>
 </details>
 <details>
     <summary> <b>부하 테스트(feat. JMeter, Ngrinder)</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻https://www.notion.so/chadda/feat-JMeter-080f19c0ec924f6e85fa5044ae336592 </h5>
 </details>
 <details>
     <summary> <b>캐싱 (feat. Redis)</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/feat-Redis-9eaf78a765474c4cb831330c57f7ef8e </h5>
 </details>
 <details>
     <summary> <b>동시성 제어(feat. DB, Redis)</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/feat-DB-Lock-a105ee025b3a49ee83a8d28ee7c3c60f </h5>
 </details>
 <details>
     <summary> <b>로깅 (feat. Kafka, ELK)</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/feat-AOP-Kafka-ELK-4c5ede1ae12541fdab278b17c7a5a04f </h5>
 </details>
 
 <br><br><br>
@@ -157,15 +158,11 @@ ChadDa 서비스의 상세 내용 및 개발 일지를 보고 싶다면?<br>
 # 프로젝트 관리
 <details>
     <summary> <b>CI/CD</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/CI-CD-feat-Github-Actions-Docker-f645688df08047788ecdd9b2dc01b6a2 </h5>
 </details>
 <details>
     <summary> <b>Conventions</b> </summary>
-    sth
-</details>
-<details>
-    <summary> <b>Git Flow</b> </summary>
-    sth
+        <h5>자세히 보러 가기 👉🏻 https://www.notion.so/chadda/Conventions-03cb79380ea6484cb7c4a49d24b62771 </h5>
 </details>
 
 <br><br><br>
